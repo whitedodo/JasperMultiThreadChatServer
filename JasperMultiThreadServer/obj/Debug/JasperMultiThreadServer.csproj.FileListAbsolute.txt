@@ -1,0 +1,9 @@
+C:\Users\scout\source\repos\JasperMultiThreadServer\JasperMultiThreadServer\bin\Debug\JasperMultiThreadServer.exe.config
+C:\Users\scout\source\repos\JasperMultiThreadServer\JasperMultiThreadServer\bin\Debug\JasperMultiThreadServer.exe
+C:\Users\scout\source\repos\JasperMultiThreadServer\JasperMultiThreadServer\bin\Debug\JasperMultiThreadServer.pdb
+C:\Users\scout\source\repos\JasperMultiThreadServer\JasperMultiThreadServer\obj\Debug\JasperMultiThreadServer.csprojAssemblyReference.cache
+C:\Users\scout\source\repos\JasperMultiThreadServer\JasperMultiThreadServer\obj\Debug\JasperMultiThreadServer.Form1.resources
+C:\Users\scout\source\repos\JasperMultiThreadServer\JasperMultiThreadServer\obj\Debug\JasperMultiThreadServer.Properties.Resources.resources
+C:\Users\scout\source\repos\JasperMultiThreadServer\JasperMultiThreadServer\obj\Debug\JasperMultiThreadServer.csproj.GenerateResource.cache
+C:\Users\scout\source\repos\JasperMultiThreadServer\JasperMultiThreadServer\obj\Debug\JasperMultiThreadServer.exe
+C:\Users\scout\source\repos\JasperMultiThreadServer\JasperMultiThreadServer\obj\Debug\JasperMultiThreadServer.pdb
